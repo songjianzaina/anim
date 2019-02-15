@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\IT\Github\android-selfAnim\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.2_a2bbdf9bd40d8495d7d43f1a1af6ce97a55cecbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IT\Github\android-selfAnim\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_7d809c989d6a6b7934dade31f9a595057edf56b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IT\Android\AndriodSDK02\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_b7fb90b4b5452d7fb046173394f89de6969f8241\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IT\Github\android-selfAnim\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_94ad1ebd2545d5f14124a7c30ee831ab88d9d28b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IT\Github\android-selfAnim\app\build\intermediates\exploded-aar\cn.yipianfengye.selfanim\self-anim\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ca287c10ed544bb72a62f44758007f7129e95dc8">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.yipianfengye.selfanim-self-anim-1.0.0_2eede2576ad48dea473bd16b9e9c9bc011c14e6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IT\Android\AndriodSDK02\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.0_2414073afbe50b401532d25631af276134f5333d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IT\Github\android-selfAnim\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="48c654d20aae24a8427357b9f8a4c08e73fea7ec">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_711fd11fb8901f01d4d2849e03e732fc9ab9c63a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IT\Github\android-selfAnim\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_203714f6d5d6d074645ab3a3faa841f162c7fa42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IT\Github\android-selfAnim\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_7d881f43d0122962eb7e74257f6ad649c2290346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IT\Github\android-selfAnim\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8c29a25400753e00cb59a072314fa98868ecf87d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songjian\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_7d752e2a617e5a1d2be24f5ec9e79345c37041b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IT\Github\android-selfAnim\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c0d3a2788f2f6d61884117f45f6a80dbe99fc822">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d354164dcfcdd15bd0f93d394c7c32ec4f6851d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IT\Github\android-selfAnim\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\IT\Github\android-selfAnim\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_8422fd4b28ad2db8f3fd44e2f2a3c146a256a071\classes.dex" />
+    </item>
+
+</items>
